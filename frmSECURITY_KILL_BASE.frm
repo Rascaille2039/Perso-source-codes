@@ -1,13 +1,13 @@
 VERSION 5.00
 
 '		***************************************************************************
-'       *    					DATABASE ARMAGEDON DESTRUCTOR				      *
-'       * 		hACKING frame developped on VB6.0 by :							  *
+'     *    					DATABASE ARMAGEDON DESTRUCTOR				      *
+'     * 		hACKING frame developped on VB6.0 by :							  *
 '		*																		  *
 '		*							Marquos LEDAU RIETTE						  *
 '		*																		  *
 '		*																		  *
-'       * 								2016 - 03								  *
+'     * 								2016 - 03								  *
 '       ***************************************************************************
 
 Option Explicit
