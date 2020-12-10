@@ -95,7 +95,7 @@ app.post('/', (request, response) => {
 	console.log(data)
 	//send response 
 	input.write()
-	response.send("Recieved")
+	response.send("Received")
 
 })
 
